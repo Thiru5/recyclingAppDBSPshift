@@ -18,6 +18,7 @@
         android:layout_marginBottom="16dp"
         android:clickable="true"
         android:focusable="true"
+        android:onClick="onClickFloatingAction"
         android:scrollbarTrackVertical="@android:drawable/ic_menu_camera"
         app:backgroundTint="#6FEC75"
         app:layout_constraintBottom_toBottomOf="parent"

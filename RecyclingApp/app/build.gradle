@@ -1,4 +1,4 @@
-apply plugin: 'com.android.application'
+    apply plugin: 'com.android.application'
 
 android {
     compileSdkVersion 29
@@ -27,4 +27,7 @@ dependencies {
     androidTestImplementation 'androidx.test:runner:1.2.0'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.2.0'
     implementation 'com.google.android.material:material:1.0.0'
+    implementation 'com.google.firebase:firebase-ml-vision:20.0.0'
+    implementation 'com.google.firebase:firebase-ml-vision-object-detection-model:16.0.0'
+    implementation 'com.otaliastudios:cameraview:2.1.0'
 }
