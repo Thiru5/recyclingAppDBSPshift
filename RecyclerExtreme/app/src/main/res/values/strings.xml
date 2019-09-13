@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RecyclerExtreme</string>
+    <string name="Rewards">Button</string>
+    <string name="invite">Button</string>
+    <string name="history">Button</string>
+    <string name="app_under_construction">App Under Construction</string>
+    <string name="rewards">Rewards</string>
+    <string name="invites">Invite</string>
+    <string name="history2">History</string>
+</resources>
