@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "662339596130",
+    "firebase_url": "https://reese-c92de.firebaseio.com",
+    "project_id": "reese-c92de",
+    "storage_bucket": "reese-c92de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662339596130:android:c32f95919055d81535463b",
+        "android_client_info": {
+          "package_name": "com.example.recyclerextreme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "662339596130-u7uv3k6s5m529qr6l378ao3v2vfak8t4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAirssqtbfcEnUuti1Xq3dQmgpIkCswT40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "662339596130-pkp4mjk5qr2t08u3bui9kqilb6mheksu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
